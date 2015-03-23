@@ -20,6 +20,15 @@ header {
   width: 100%;
 }
 
+section.disclaimer {
+	padding-top: 80px;
+	padding-bottom: 100px;
+}
+
+section.portfolio {
+	padding: 10px;
+}
+
 
 /* ==========================================================================
 	Utility classes
@@ -27,10 +36,6 @@ header {
 
 .bg-grey {
 	background: #ecf0f1;
-}
-
-.text-center {
-	text-align: center;
 }
 
 .text-on-dark {
