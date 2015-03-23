@@ -1,0 +1,47 @@
+
+
+/* ==========================================================================
+	Main page
+   ========================================================================== */
+
+body {
+	font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+}
+
+
+header {
+  background: linear-gradient(rgba(94,94,94,.5),rgba(94,94,94,.5)),url(../img/background.jpg) no-repeat center top;
+  padding-top: 250px;
+  background-attachment: relative;
+  background-position: center center;
+  background-size: 100%;
+  background-size: cover;
+  min-height: 700px;
+  width: 100%;
+}
+
+
+/* ==========================================================================
+	Utility classes
+   ========================================================================== */
+
+.bg-grey {
+	background: #ecf0f1;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-on-dark {
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
