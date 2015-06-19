@@ -132,7 +132,11 @@ section.i-am {
 }
 
 section.contact {
+  padding-top: 20px;
   padding-bottom: 50px;
+}
+section.contact h2{
+  padding-bottom: 30px;
 }
 
 footer {
