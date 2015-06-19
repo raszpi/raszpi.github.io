@@ -68,8 +68,6 @@ h4 {
   font-weight: bold;
 }
 
-
-
 header {
   background: url(../img/background.jpg) no-repeat center top;
   padding-top: 180px;
@@ -110,7 +108,7 @@ section.disclaimer {
   padding-bottom: 100px;
 }
 section.disclaimer .img-wrapper {
-  padding-top: 30px;
+  padding-top: 50px;
 }
 
 section .col-sm-2 {
