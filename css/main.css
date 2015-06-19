@@ -125,6 +125,18 @@ section.portfolio .col-md-4 {
   padding-top: 50px;
 }
 
+section.i-am h2 {
+  padding-bottom: 50px;
+}
+section.i-am {
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+section.contact {
+  padding-bottom: 50px;
+}
+
 footer {
   padding: 10px;
 }
